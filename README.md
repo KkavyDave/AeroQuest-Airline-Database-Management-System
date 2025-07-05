@@ -41,5 +41,5 @@ This project includes a rich set of insights, such as:
 
 ## 📝 Normalization
 - All tables analyzed for **Functional Dependencies**, minimal FD sets, and proven to be in **BCNF**.
-- Full documentation in [`docs/T502_Normalization.pdf`](docs/T502_Normalization.pdf).
+- Full documentation in [`docs/Normalization.pdf`](docs/Normalization.pdf).
 
